@@ -22,18 +22,22 @@ h1, h2, h3, h4 {
 
 h1 {
   font-size: 2.75rem;
+  margin: 20px 0;
 }
 
 h2 {
   font-size: 2rem;
+  margin: 16px 0;
 }
 
 h3 {
-  font-size: 1.5rem; 
+  font-size: 1.5rem;
+  margin: 14px 0 8px 0;
 }
 
 h4 {
-  font-size: 1rem;
+    font-size: 1rem;
+    margin: 10 0;
 }
 
 .byline, .credit {
